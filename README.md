@@ -15,3 +15,5 @@ Repository for Udacity Agile Development with Azure course
 ![image](https://user-images.githubusercontent.com/6615388/194672606-5489b076-e93f-436c-804f-97bcbce2b41f.png)
 
 ![image](https://user-images.githubusercontent.com/6615388/194730681-d784bc67-f5ae-4add-bbc7-e47afbdb9750.png)
+
+![image](https://user-images.githubusercontent.com/6615388/194730741-112e798f-3c2b-4b54-954f-efbbc6cdc6f3.png)
