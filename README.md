@@ -104,4 +104,6 @@ https://flaskml-sergey-voronin.scm.azurewebsites.net/api/logs/docker
 
 az webapp log tail
 
+python -m flask run
+
     ```
