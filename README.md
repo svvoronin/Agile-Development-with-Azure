@@ -86,7 +86,7 @@ make install
 
 az webapp up -n flaskml-sergey --resource-group Agile-dev-azure
 
-
+az webapp up -n flaskml-sergey --resource-group Agile-dev-azure --location switzerlandnorth
 
 
     ```
