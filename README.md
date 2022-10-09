@@ -78,6 +78,7 @@ Port: 443
 
 ![image](https://user-images.githubusercontent.com/6615388/194758575-272327cc-ee35-4696-916c-38f430f09d78.png)
 
+![image](https://user-images.githubusercontent.com/6615388/194758804-401df7ca-0a5a-4758-bcd1-1d9f3900acde.png)
 
     ```
 python3 -m venv ~/.myrepo
