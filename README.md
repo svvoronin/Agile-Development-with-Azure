@@ -73,3 +73,20 @@ Port: 443
 ![image](https://user-images.githubusercontent.com/6615388/194730681-d784bc67-f5ae-4add-bbc7-e47afbdb9750.png)
 
 ![image](https://user-images.githubusercontent.com/6615388/194730741-112e798f-3c2b-4b54-954f-efbbc6cdc6f3.png)
+
+
+    ```
+python3 -m venv ~/.myrepo
+source ~/.myrepo/bin/activate
+
+conda create -n myrepo python=3.7.0 anaconda
+conda activate myrepo
+
+make install
+
+az webapp up -n flaskml-sergey --resource-group Agile-dev-azure
+
+
+
+
+    ```
