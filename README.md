@@ -111,3 +111,4 @@ az webapp log tail
 python -m flask run
 
     ```
+[![Python application test with Github Actions](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml)
