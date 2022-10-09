@@ -80,6 +80,9 @@ Port: 443
 
 ![image](https://user-images.githubusercontent.com/6615388/194758804-401df7ca-0a5a-4758-bcd1-1d9f3900acde.png)
 
+![image](https://user-images.githubusercontent.com/6615388/194759003-6b65ad8c-f37e-4ec7-b0c6-f81ce6afa97d.png)
+
+
     ```
 python3 -m venv ~/.myrepo
 source ~/.myrepo/bin/activate
@@ -91,7 +94,7 @@ make install
 
 az webapp up -n flaskml-sergey --resource-group Agile-dev-azure
 
-az webapp up -n flaskml-sergey --resource-group Agile-dev-azure --location switzerlandnorth
+az webapp up -n flaskml-sergey --resource-group CI-CD-project --location switzerlandnorth
 
 
     ```
