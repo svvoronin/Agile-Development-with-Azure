@@ -78,6 +78,14 @@ Port: 443
 
 ![image](https://user-images.githubusercontent.com/6615388/194758575-272327cc-ee35-4696-916c-38f430f09d78.png)
 
+![image](https://user-images.githubusercontent.com/6615388/194758804-401df7ca-0a5a-4758-bcd1-1d9f3900acde.png)
+
+![image](https://user-images.githubusercontent.com/6615388/194759003-6b65ad8c-f37e-4ec7-b0c6-f81ce6afa97d.png)
+
+![image](https://user-images.githubusercontent.com/6615388/194759433-222aa845-d8e1-40f9-928b-2682f2a35471.png)
+
+![image](https://user-images.githubusercontent.com/6615388/194759531-5a46fcf9-d84f-4c75-8514-9fbf5694d43e.png)
+
 
     ```
 python3 -m venv ~/.myrepo
@@ -90,7 +98,12 @@ make install
 
 az webapp up -n flaskml-sergey --resource-group Agile-dev-azure
 
-az webapp up -n flaskml-sergey --resource-group Agile-dev-azure --location switzerlandnorth
+az webapp up -n flaskml-sergey-voronin --resource-group CI-CD-project --location switzerlandnorth
 
+https://flaskml-sergey-voronin.scm.azurewebsites.net/api/logs/docker
+
+az webapp log tail
+
+python -m flask run
 
     ```
