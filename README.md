@@ -12,12 +12,14 @@ Repository for Udacity Agile Development with Azure course
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
 
-## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+
 ## Architectural Diagram
 ![image](https://user-images.githubusercontent.com/6615388/199479413-f75eb9d4-1eb8-459f-a0d9-5b97bbbfafef.png)
+
+## Instructions
+### Deploy project with Azure Cloud Shell  
+* Clone project into Azure Cloud Shell
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
