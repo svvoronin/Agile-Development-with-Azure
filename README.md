@@ -17,7 +17,7 @@ Repository for Udacity Agile Development with Azure course
 <TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
 ## Architectural Diagram
-![](docs/screenshots/architecture-diagram.png)
+![image](https://user-images.githubusercontent.com/6615388/199479413-f75eb9d4-1eb8-459f-a0d9-5b97bbbfafef.png)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
