@@ -13,7 +13,7 @@ It gives an overview on how to:
 
 <TODO: Project Plan
 
-- * [Trello Board](https://trello.com/b/9iA3AR5T/agile-development-with-azure)
+- [Trello Board](https://trello.com/b/9iA3AR5T/agile-development-with-azure)
 - A link to a spreadsheet that includes the original and final project plan>
 
 ## Architectural Diagram
