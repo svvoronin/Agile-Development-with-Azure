@@ -7,7 +7,7 @@ Repository for Udacity Agile Development with Azure course
 This work demonstrates the main principles of Continious Integration (CI) and Continious Delivery (CD) for deployment of applications to Azure.
 It gives an overview on how to:
 - Integrate an Azure Cloud Shell environment
-- Build CI/CD pipelines to build,test, deploy and operationalize a Machine Learning project using GitHub Actions and Azure Devops
+- Build CI/CD pipelines to test, deploy and operationalize a Machine Learning project using GitHub Actions and Azure Devops
 
 ## Project Plan
 
