@@ -124,30 +124,3 @@ The following can be done to improve the project:
 
 <TODO: Add link Screencast on YouTube>
 
-![image](https://user-images.githubusercontent.com/6615388/194730741-112e798f-3c2b-4b54-954f-efbbc6cdc6f3.png)
-
-
-
-![image](https://user-images.githubusercontent.com/6615388/194758804-401df7ca-0a5a-4758-bcd1-1d9f3900acde.png)
-
-![image](https://user-images.githubusercontent.com/6615388/194759531-5a46fcf9-d84f-4c75-8514-9fbf5694d43e.png)
-
-![image](https://user-images.githubusercontent.com/6615388/194761847-e7a71fc1-1fcb-4fa5-9ba2-d57ac53b06f9.png)
-
-    ```
-
-
-
-make install
-
-az webapp up -n flaskml-sergey --resource-group Agile-dev-azure
-
-https://flaskml-sergey-voronin.scm.azurewebsites.net/api/logs/docker
-
-az webapp log tail
-
-python -m flask run
-
-    ```
-
-[![Python application test with Github Actions](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml)
