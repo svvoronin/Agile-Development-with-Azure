@@ -72,8 +72,10 @@ make all
 ```
 az webapp up -n flaskml-sergey-voronin --resource-group CI-CD-project --location switzerlandnorth
 ```
-- Check if your current python version is compatible with original Flask starter code (There may be a need to control a python version in the python env you create)
+- Check if your current python version is compatible with original Flask starter code (there may be a need to control a python version in the python env you create)
+  
   The following conda command creates python virtual environment with specific python version in it:
+
 ```
 conda create -n myrepo python=3.7.0 anaconda
 conda activate myrepo
@@ -102,7 +104,8 @@ conda activate myrepo
 - Run ./make_predict_azure_app.sh command to get a prediction:
 ![image](https://user-images.githubusercontent.com/6615388/194758522-3406470d-1cf5-468d-84e5-7bb97f17b6ff.png)
 
-- Test it locally
+- Test it locally:
+
 ![image](https://user-images.githubusercontent.com/6615388/194758575-272327cc-ee35-4696-916c-38f430f09d78.png)
 
 - Check output of streamed log files from deployed application:
