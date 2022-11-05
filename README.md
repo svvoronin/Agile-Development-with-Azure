@@ -102,6 +102,7 @@ conda activate myrepo
 ![image](https://user-images.githubusercontent.com/6615388/194767472-0813a0b6-6e36-4070-83e4-53eee59d1de8.png)
 
 - Run ./make_predict_azure_app.sh command to get a prediction (Bash terminal):
+
 ![image](https://user-images.githubusercontent.com/6615388/194758522-3406470d-1cf5-468d-84e5-7bb97f17b6ff.png)
 
 - Test it locally:
