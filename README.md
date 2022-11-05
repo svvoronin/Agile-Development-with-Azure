@@ -100,8 +100,10 @@ conda activate myrepo
 ![image](https://user-images.githubusercontent.com/6615388/194767472-0813a0b6-6e36-4070-83e4-53eee59d1de8.png)
 
 - Run ./make_predict_azure_app.sh command to get a prediction:
+![image](https://user-images.githubusercontent.com/6615388/194758522-3406470d-1cf5-468d-84e5-7bb97f17b6ff.png)
 
-![image](https://user-images.githubusercontent.com/6615388/194730681-d784bc67-f5ae-4add-bbc7-e47afbdb9750.png)
+- Test it locally
+![image](https://user-images.githubusercontent.com/6615388/194758575-272327cc-ee35-4696-916c-38f430f09d78.png)
 
 - Check output of streamed log files from deployed application:
 
@@ -121,9 +123,7 @@ The following can be done to improve the project:
 
 ![image](https://user-images.githubusercontent.com/6615388/194730741-112e798f-3c2b-4b54-954f-efbbc6cdc6f3.png)
 
-![image](https://user-images.githubusercontent.com/6615388/194758522-3406470d-1cf5-468d-84e5-7bb97f17b6ff.png)
 
-![image](https://user-images.githubusercontent.com/6615388/194758575-272327cc-ee35-4696-916c-38f430f09d78.png)
 
 ![image](https://user-images.githubusercontent.com/6615388/194758804-401df7ca-0a5a-4758-bcd1-1d9f3900acde.png)
 
