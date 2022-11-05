@@ -72,7 +72,13 @@ make all
 ```
 az webapp up -n flaskml-sergey-voronin --resource-group CI-CD-project --location switzerlandnorth
 ```
-
+- Check if your current python version is compatible with original Flask starter code (There may be a need to control a python version in the python env you create)
+  The following conda command creates python virtual environment with specific python version in it:
+```
+conda create -n myrepo python=3.7.0 anaconda
+conda activate myrepo
+``` 
+  
 - Check out the URL to see the deployed web service:
 
 ![image](https://user-images.githubusercontent.com/6615388/194759003-6b65ad8c-f37e-4ec7-b0c6-f81ce6afa97d.png)
@@ -127,8 +133,7 @@ The following can be done to improve the project:
 
     ```
 
-conda create -n myrepo python=3.7.0 anaconda
-conda activate myrepo
+
 
 make install
 
