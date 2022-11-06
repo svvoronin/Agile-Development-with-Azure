@@ -120,6 +120,12 @@ conda activate myrepo
 
 ![image](https://user-images.githubusercontent.com/6615388/194759433-222aa845-d8e1-40f9-928b-2682f2a35471.png)
 
+#### Locust
+
+![image](https://user-images.githubusercontent.com/6615388/200188941-98b8c838-6f07-485a-b250-70cf655c41ed.png)
+
+![image](https://user-images.githubusercontent.com/6615388/200189006-2443acf2-0cf9-487b-92e3-62b8565bd3e2.png)
+
 ## Enhancements
 
 The following can be done to improve the project:
