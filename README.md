@@ -134,9 +134,9 @@ locust
 ```
 Open http://localhost:8089. Enter the total number of concurrent users (e.g. 20) to simulate, spawn rate, set the host https://flaskml-sergey-voronin.azurewebsites.net and start Swarming:
 
-![image](https://user-images.githubusercontent.com/6615388/200188941-98b8c838-6f07-485a-b250-70cf655c41ed.png)
+![image](https://user-images.githubusercontent.com/6615388/200195215-13e1adae-5d79-40b4-a137-a2184e2f1eae.png)
 
-![image](https://user-images.githubusercontent.com/6615388/200189006-2443acf2-0cf9-487b-92e3-62b8565bd3e2.png)
+![image](https://user-images.githubusercontent.com/6615388/200195242-1d287dff-e9a7-44d6-9b16-03dc8c3e15c3.png)
 
 ## Enhancements
 
