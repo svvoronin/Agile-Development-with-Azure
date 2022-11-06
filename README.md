@@ -97,6 +97,15 @@ conda activate myrepo
 
 ![image](https://user-images.githubusercontent.com/6615388/194761457-676aa46b-443b-41a1-932e-427f26e9b129.png)
 
+- Change original html home string in app.py to trigger the CD pipeline on DevOps (check the build status):
+
+![image](https://user-images.githubusercontent.com/6615388/200188729-6fc72ef9-f919-4b43-8d9e-9b64c5d0b790.png)
+
+- Check the webapp URL to see how the home string changed:
+
+![image](https://user-images.githubusercontent.com/6615388/200188646-7d068432-328f-4214-80ac-588e2659bbeb.png)
+
+
 #### Verify the deployed application
 
 - Check the web app on Azure:
@@ -114,6 +123,20 @@ conda activate myrepo
 - Check output of streamed log files from deployed application:
 
 ![image](https://user-images.githubusercontent.com/6615388/194759433-222aa845-d8e1-40f9-928b-2682f2a35471.png)
+
+#### Run Locust
+
+Install run locust on cmd:
+
+```
+pip install locust
+locust
+```
+Open http://localhost:8089. Enter the total number of concurrent users (e.g. 20) to simulate, spawn rate, set the host https://flaskml-sergey-voronin.azurewebsites.net and start Swarming:
+
+![image](https://user-images.githubusercontent.com/6615388/200195215-13e1adae-5d79-40b4-a137-a2184e2f1eae.png)
+
+![image](https://user-images.githubusercontent.com/6615388/200195242-1d287dff-e9a7-44d6-9b16-03dc8c3e15c3.png)
 
 ## Enhancements
 
