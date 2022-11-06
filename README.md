@@ -97,7 +97,11 @@ conda activate myrepo
 
 ![image](https://user-images.githubusercontent.com/6615388/194761457-676aa46b-443b-41a1-932e-427f26e9b129.png)
 
+- Change original html home string to trigger the CD pipeline on DevOps (check the build status):
+
 ![image](https://user-images.githubusercontent.com/6615388/200188729-6fc72ef9-f919-4b43-8d9e-9b64c5d0b790.png)
+
+- Check the webapp URL to see how the home string changed:
 
 ![image](https://user-images.githubusercontent.com/6615388/200188646-7d068432-328f-4214-80ac-588e2659bbeb.png)
 
