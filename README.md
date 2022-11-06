@@ -97,6 +97,9 @@ conda activate myrepo
 
 ![image](https://user-images.githubusercontent.com/6615388/194761457-676aa46b-443b-41a1-932e-427f26e9b129.png)
 
+![image](https://user-images.githubusercontent.com/6615388/200188646-7d068432-328f-4214-80ac-588e2659bbeb.png)
+
+
 #### Verify the deployed application
 
 - Check the web app on Azure:
