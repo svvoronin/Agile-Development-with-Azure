@@ -120,7 +120,15 @@ conda activate myrepo
 
 ![image](https://user-images.githubusercontent.com/6615388/194759433-222aa845-d8e1-40f9-928b-2682f2a35471.png)
 
-#### Locust
+#### Run Locust
+
+Install run locust on cmd:
+
+```
+pip install locust
+locust
+```
+Open http://localhost:8089. Enter the total number of concurrent users (e.g. 20) to simulate, spawn rate, set the host https://flaskml-sergey-voronin.azurewebsites.net and start Swarming:
 
 ![image](https://user-images.githubusercontent.com/6615388/200188941-98b8c838-6f07-485a-b250-70cf655c41ed.png)
 
