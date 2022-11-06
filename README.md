@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml/badge.svg?branch=main)](https://github.com/svvoronin/Agile-Development-with-Azure/actions/workflows/pythonapp.yml)
+
 # Agile-Development-with-Azure
 
 Repository for Udacity Agile Development with Azure course
